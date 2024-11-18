@@ -1,14 +1,5 @@
-<<<<<<< HEAD
 # Individual-Challenge-ReactJS
 Ini adalah tugas individu dari Celerates yang berfokus pada materi ReactJS. Tugas ini menggunakan repository dasar yang disediakan oleh Kak Thomi, kemudian dikembangkan lebih lanjut oleh Muhammad Alif Qadri.
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Individual-Challenge-ReactJS
-Ini adalah tugas individu dari Celerates yang berfokus pada materi ReactJS. Tugas ini menggunakan repository dasar yang disediakan oleh Kak Thomi, kemudian dikembangkan lebih lanjut oleh Muhammad Alif Qadri.
-=======
-<<<<<<< HEAD
-# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
